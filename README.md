@@ -88,10 +88,16 @@ def left():
 In the example above, you would replace the "#code to turn left" with your code to make the robot move. Make sure to keep the indent.
 
 ## Drive your car!
-On the Raspberry Pi run the code by entering
+Enter the directory of the code
+```bash
+cd Edu-Pi-Car/
+```
+
+Run the code by entering
 ```bash
 python run.py
 ```
+
 Find your Pi's IP address
 ```bash
 hostname -I
