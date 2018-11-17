@@ -19,7 +19,7 @@ Install Flask Socket.io
 ```bash
 pip install flask-socketio
 ```
-**Before we can install, you need to connect your webcam or pi camera.**
+**Before we can install Motion, you need to connect your webcam or pi camera.**
 
 Install Motion
 ```bash
