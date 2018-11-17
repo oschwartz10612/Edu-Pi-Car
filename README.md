@@ -92,6 +92,10 @@ On the Raspberry Pi run the code by entering
 ```bash
 python run.py
 ```
+Find your Pi's IP address
+```bash
+hostname -I
+```
 
 Go to a computer on the same network and connect to the Raspberry Pi by typing its IP address into the address bar followed by ':5000' For example: http://192.168.1.12:5000
 
