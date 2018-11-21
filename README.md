@@ -9,7 +9,7 @@ sudo apt-get update
 
 Install git
 ```bash
-sudo apt-get intall github
+sudo apt-get intall git
 ```
 
 Install pip
