@@ -2,6 +2,20 @@
 
 
 ## Installation
+Update Raspbian Repositories
+```bash
+sudo apt-get update
+```
+
+Install git
+```bash
+sudo apt-get intall github
+```
+
+Install pip
+```bash
+sudo apt-get install python-pip
+```
 
 Use git to clone this repository to your Raspberry Pi robot
 
@@ -93,14 +107,14 @@ Enter the directory of the code
 cd Edu-Pi-Car/
 ```
 
-Run the code by entering
-```bash
-python run.py
-```
-
 Find your Pi's IP address
 ```bash
 hostname -I
+```
+
+Run the code by entering
+```bash
+python run.py
 ```
 
 Go to a computer on the same network and connect to the Raspberry Pi by typing its IP address into the address bar followed by ':5000' For example: http://192.168.1.12:5000
