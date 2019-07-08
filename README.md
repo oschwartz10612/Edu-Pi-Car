@@ -1,5 +1,5 @@
 # Educational Webserver Pi Car Implementation
-
+A getting started guide to build a Raspberry Pi web controlled robot. This is intented as a jumping off point depending on your platform.
 
 ## Installation
 Update Raspbian Repositories
