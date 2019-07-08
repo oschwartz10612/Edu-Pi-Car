@@ -1,6 +1,9 @@
 # Educational Webserver Pi Car Implementation
 A getting started guide to build a Raspberry Pi web controlled robot. This is intented as a jumping off point depending on your platform.
 
+## Platform
+If you are getting started it is recommended to get a kit like [this one](https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8). Build it. Learn how it works and how the provided libraries work. 
+
 ## Installation
 Update Raspbian Repositories
 ```bash
