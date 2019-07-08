@@ -47,7 +47,7 @@ Set Motion daemon to 'yes'
 sudo nano /etc/default/motion
 ```
 
-![alt text](https://circuitdigest.com/sites/default/files/inlineimages/enable-motion-daemon-for-Raspberry-Pi-Surveillance-Camera.gif)
+![img1](/assets/enable-motion-daemon-for-Raspberry-Pi-Surveillance-Camera.gif)
 
 Then save the file by pressing ‘CTRL+X’, then ‘Y’ and then Enter.
 
@@ -60,7 +60,7 @@ Now we are almost done, only we need to change one config option in Motion confi
 ```bash
 sudo nano /etc/motion/motion.conf
 ```
-![alt text](https://circuitdigest.com/sites/default/files/inlineimages/setting-motion-cofig-file-for-Raspberry-Pi-Surveillance-Camera.gif)
+![img2](/assets/setting-motion-cofig-file-for-Raspberry-Pi-Surveillance-Camera.gif)
 
 Finally, restart the service
 ```bash
